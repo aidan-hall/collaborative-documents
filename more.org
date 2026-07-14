@@ -1,3 +1,5 @@
 #+title: Better Markup
 
 You can even use [[https://orgmode.org][the better markup language]] with no fuss.
+
+The only downside is the GitHub web editor doesn't highlight the raw source.

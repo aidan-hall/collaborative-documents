@@ -7,4 +7,4 @@ If the GitHub web editor isn't good enough, you can clone it and edit the files 
 
 # `Math(s|ematics)?`
 
-Just $\frac 1 2$. No drama. No jumping through menus to find the "insert equation" button, which will *in the best case* give you a plain text input field to type some LaTeX anyway.
+Just $\frac 1 2$. No drama. No jumping through menus to find the "insert equation" button, which will *in the best case* give you a plain text input field to type some LaTeX (or maybe AsciiMath if they're cool) anyway.

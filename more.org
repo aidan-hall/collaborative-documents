@@ -1,0 +1,3 @@
+#+title: Better Markup
+
+You can even use [[https://orgmode.org][the better markup language]] with no fuss.
